@@ -11,7 +11,7 @@ from predict import show_predict
 html_temp ="""
     <marquee width="150%" direction="right" height="50px"  bgcolor ='#D6EEEE'
      behavior =alternate   style='font=size:35px'   >
-    Developed By Rohit sharma
+    Developed By Rohit Sharma
     </marquee>
 
 
