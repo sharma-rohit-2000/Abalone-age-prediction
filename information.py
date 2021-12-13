@@ -18,7 +18,7 @@ def information():
     <tr style="height:75px" >
     <th style='background-color:#CCFF66';>Random Forest</th>
     <th style='background-color:#CCFF66';>Random</th>
-    <th style='background-color:#CCFF66';>85% </th>
+    <th style='background-color:#CCFF66';>91% </th>
     </tr>
     <tr style="height:75px">
     <th style="background-color:powderblue;">Xtreme Gradient Boosting</th>
