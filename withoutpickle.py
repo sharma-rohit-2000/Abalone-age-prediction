@@ -4,7 +4,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import warnings
 warnings.filterwarnings('ignore')
-from imblearn.over_sampling import RandomOverSampler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 import numpy as np
